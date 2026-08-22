@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D025E763-2E52-48F4-BA57-90CBD917FB5E}|chessBot\\chessBot.vcxproj|C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D025E763-2E52-48F4-BA57-90CBD917FB5E}|chessBot\\chessBot.vcxproj|solutionrelative:chessBot\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D025E763-2E52-48F4-BA57-90CBD917FB5E}|chessBot\\chessBot.vcxproj|C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\chessBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D025E763-2E52-48F4-BA57-90CBD917FB5E}|chessBot\\chessBot.vcxproj|solutionrelative:chessBot\\chessBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D025E763-2E52-48F4-BA57-90CBD917FB5E}|chessBot\\chessBot.vcxproj|C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\chessBoard.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D025E763-2E52-48F4-BA57-90CBD917FB5E}|chessBot\\chessBot.vcxproj|solutionrelative:chessBot\\chessBoard.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D025E763-2E52-48F4-BA57-90CBD917FB5E}|chessBot\\chessBot.vcxproj|C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\Main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D025E763-2E52-48F4-BA57-90CBD917FB5E}|chessBot\\chessBot.vcxproj|solutionrelative:chessBot\\Main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D025E763-2E52-48F4-BA57-90CBD917FB5E}|chessBot\\chessBot.vcxproj|C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D025E763-2E52-48F4-BA57-90CBD917FB5E}|chessBot\\chessBot.vcxproj|solutionrelative:chessBot\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "chessBoard.hpp",
+              "DocumentMoniker": "C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\chessBoard.hpp",
+              "RelativeDocumentMoniker": "chessBot\\chessBoard.hpp",
+              "ToolTip": "C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\chessBoard.hpp",
+              "RelativeToolTip": "chessBot\\chessBoard.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-22T15:01:52.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chessBoard.cpp",
+              "DocumentMoniker": "C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\chessBoard.cpp",
+              "RelativeDocumentMoniker": "chessBot\\chessBoard.cpp",
+              "ToolTip": "C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\chessBoard.cpp",
+              "RelativeToolTip": "chessBot\\chessBoard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-22T15:01:34.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Main.h",
               "DocumentMoniker": "C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\Main.h",
               "RelativeDocumentMoniker": "chessBot\\Main.h",
@@ -39,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\Main.cpp",
               "RelativeDocumentMoniker": "chessBot\\Main.cpp",

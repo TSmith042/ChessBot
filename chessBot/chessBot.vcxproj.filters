@@ -16,12 +16,18 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
-      <Filter>include</Filter>
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="chessBoard.cpp">
+      <Filter>src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="chessBoard.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
     <ClInclude Include="Main.h">
-      <Filter>src</Filter>
+      <Filter>include</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
