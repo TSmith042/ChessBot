@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="chessBot/chessBot.vcxproj" Id="d025e763-2e52-48f4-ba57-90cbd917fb5e" />
+</Solution>
