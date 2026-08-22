@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "chessBot\\chessBoard.hpp",
               "ToolTip": "C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\chessBoard.hpp",
               "RelativeToolTip": "chessBot\\chessBoard.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-08-22T15:01:52.173Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "chessBot\\chessBoard.cpp",
               "ToolTip": "C:\\Users\\finch\\OneDrive\\Documents\\Github\\ChessBot\\chessBot\\chessBoard.cpp",
               "RelativeToolTip": "chessBot\\chessBoard.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-08-22T15:01:34.006Z",
               "EditorCaption": ""
@@ -77,8 +77,7 @@
               "RelativeToolTip": "chessBot\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-22T12:59:55.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-22T12:59:55.935Z"
             }
           ]
         }
