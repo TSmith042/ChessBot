@@ -3,7 +3,9 @@
     "Data": {
         "Source": "c:\\users\\finch\\onedrive\\documents\\github\\chessbot\\chessbot\\chessboard.cpp",
         "ProvidedModule": "",
-        "Includes": [],
+        "Includes": [
+            "c:\\users\\finch\\onedrive\\documents\\github\\chessbot\\chessbot\\chessboard.hpp"
+        ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
     }
